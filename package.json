@@ -1,0 +1,17 @@
+{
+  "name": "cli-omnitracs",
+  "version": "1.0.0",
+  "description": "Cli test for SW Dev position",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gerardo Jimenez Ronquillo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "csv-writer": "^1.6.0"
+  }
+}
