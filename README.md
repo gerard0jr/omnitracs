@@ -14,6 +14,8 @@ or
 $ node index.js
 ```
 
+The CLI will output a CSV file with the temperature and precipitation of Dallas TX
+
 Author
 ----
 
