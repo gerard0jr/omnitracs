@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 let chalk = require('chalk')
 let boxen = require('boxen')
 let axios = require('axios')

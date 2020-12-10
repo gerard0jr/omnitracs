@@ -13,5 +13,8 @@
     "boxen": "^4.2.0",
     "chalk": "^4.1.0",
     "csv-writer": "^1.6.0"
+  },
+  "bin": {
+    "omnitracs": "./index.js"
   }
 }
